@@ -1,0 +1,23 @@
+# Environnements virtuels
+venv/
+.venv/
+env/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Informations confidentielles
+.env
+credentials.json
+secrets.json
+
+# Données
+data/
+datasets/
+
+# Fichiers temporaires
+*.log
